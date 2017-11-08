@@ -14,6 +14,8 @@ git commit -m "Initial commit"
 
 git push origin master
 
+git add –A && git commit -m "Format change"
+
 
 
 
